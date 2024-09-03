@@ -1,10 +1,10 @@
 > # Vlastovka Client
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
+  <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
+  </a>
 </p>
-
-<div align="center">
 
 [![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1)
 <a href="https://meteorclient.com" target="_blank">
