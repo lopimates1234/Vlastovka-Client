@@ -15,7 +15,7 @@
 [![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
 [![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)](https://github.com/lopimates1234/Vlastovka-Client)
 <a href="https://ko-fi.com/lopimates1234" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi1.png" alt="Ko-Fi" style="height: 20px;"/>
+  <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px;"/>
 </a>
 
 </div>
