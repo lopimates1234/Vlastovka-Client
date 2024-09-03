@@ -10,7 +10,7 @@
 <a href="https://meteorclient.com" target="_blank">
   <img src="https://meteorclient.com/icon.png" alt="Ko-Fi" style="height: 21px;"/>
 </a>
-[![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteor.com)
+[![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
 <a href="https://ko-fi.com/lopimates1234" target="_blank">
   <img src="https://cdn.ko-fi.com/cdn/kofi1.png" alt="Ko-Fi" style="height: 20px;"/>
