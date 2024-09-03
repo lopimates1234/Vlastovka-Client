@@ -9,24 +9,34 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://meteorclient.com" target="_blank">
-    <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px;"/>
-  </a>
-  <a href="https://meteorclient.com">
-    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor" style="vertical-align: middle; margin-left: 10px;"/>
-  </a>
-  <a href="https://github.com/lopimates1234/Vlastovka-Client">
-    <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="lient" style="vertical-align: middle; margin-left: 10px;"/>
-  </a>
+  <span style="display: inline-block; vertical-align: middle;">
+    <a href="https://meteorclient.com" target="_blank">
+      <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px;"/>
+    </a>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <a href="https://meteorclient.com">
+      <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor"/>
+    </a>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <a href="https://github.com/lopimates1234/Vlastovka-Client">
+      <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="lient"/>
+    </a>
+  </span>
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/lopimates1234" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px;"/>
-  </a>
-  <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1">
-    <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version" style="vertical-align: middle; margin-left: 10px;"/>
-  </a>
+  <span style="display: inline-block; vertical-align: middle;">
+    <a href="https://ko-fi.com/lopimates1234" target="_blank">
+      <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px;"/>
+    </a>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1">
+      <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version"/>
+    </a>
+  </span>
 </p>
 
 > **Vlastovka Client** is a beta version of a Minecraft client based on the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client). This client is developed for players who want to extend their gameplay with various useful features. If you are the developers of Meteor Client and would like us to shut down this client, please contact us.
