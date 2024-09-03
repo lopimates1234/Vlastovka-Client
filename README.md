@@ -9,6 +9,7 @@
 ![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)
 [![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteor.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
+[![ko-fi](https://img.shields.io/badge/Ko-Fi-color=red)](https://ko-fi.com/lopimates1234)
 
 </div>
 
@@ -52,5 +53,6 @@
 ![Version](https://img.shields.io/badge/Aplha_v1.0.1-006400)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
+[![ko-fi](https://img.shields.io/badge/Ko-Fi-color=red)](https://ko-fi.com/lopimates1234)
 
 </div>
