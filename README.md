@@ -16,9 +16,11 @@
   <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="contributors" style="height: 20px; vertical-align: middle;" />
   </a>
-  <a href="https://ko-fi.com/lopimates1234" target="_blank" style="display: inline-block; margin-right: 40px;"> <!-- Ještě větší mezera -->
+  <a href="https://ko-fi.com/lopimates1234" target="_blank" style="display: inline-block;">
     <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px; vertical-align: middle;" />
   </a>
+  <!-- Vložení prázdného prostoru -->
+  <span style="display: inline-block; width: 30px;"></span> <!-- Velikost mezery -->
   <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
   </a>
