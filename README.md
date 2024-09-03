@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Alpha_v1.0.1-green)
+![Version](https://img.shields.io/badge/Alpha_v1.0.1?color=%23006400)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
 
