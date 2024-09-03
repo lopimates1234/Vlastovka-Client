@@ -7,23 +7,30 @@
 </p>
 
 <div align="center">
-  <a href="https://meteorclient.com" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://meteorclient.com" target="_blank" style="display: inline-block;">
     <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px; vertical-align: middle;" />
   </a>
-  <a href="https://meteorclient.com" style="display: inline-block; margin-right: 10px;">
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://meteorclient.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor" style="height: 20px; vertical-align: middle;" />
   </a>
-  <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="contributors" style="height: 20px; vertical-align: middle;" />
   </a>
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
   <a href="https://ko-fi.com/lopimates1234" target="_blank" style="display: inline-block;">
     <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px; vertical-align: middle;" />
   </a>
-  <!-- Vložení prázdného prostoru -->
-  <span style="display: inline-block; width: 30px;"></span> <!-- Velikost mezery -->
-  <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
   </a>
+</div>
   
 </div>
 
@@ -65,15 +72,28 @@
 </p>
 
 <div align="center">
-
-[![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1)
-<a href="https://meteorclient.com" target="_blank">
-  <img src="https://meteorclient.com/icon.png" alt="Ko-Fi" style="height: 21px;"/>
-</a>
-[![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
-[![lient](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)](https://github.com/lopimates1234/Vlastovka-Client)
-<a href="https://ko-fi.com/lopimates1234" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px;"/>
-</a>
+  <a href="https://meteorclient.com" target="_blank" style="display: inline-block;">
+    <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px; vertical-align: middle;" />
+  </a>
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://meteorclient.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor" style="height: 20px; vertical-align: middle;" />
+  </a>
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="contributors" style="height: 20px; vertical-align: middle;" />
+  </a>
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://ko-fi.com/lopimates1234" target="_blank" style="display: inline-block;">
+    <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px; vertical-align: middle;" />
+  </a>
+  <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
+  <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
+  </a>
 
 </div>
