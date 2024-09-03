@@ -12,7 +12,7 @@ Parts of this document were taken from the [Meteor Client](https://github.com/Me
 
 ![Version](https://img.shields.io/badge/v_1.0.0-green)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
-![node-current](https://img.shields.io/node/v/meteor)
+![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client)
 [![Version](https://img.shields.io/badge/v_1.0.0-green)](ODKAZ_NA_VAŠI_STRÁNKU)
 
 </div>
