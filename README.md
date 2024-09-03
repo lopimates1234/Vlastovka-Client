@@ -16,18 +16,3 @@ Parts of this document were taken from the [Meteor Client](https://github.com/Me
 [![Version](https://img.shields.io/badge/v_1.0.0-green)](ODKAZ_NA_VAŠI_STRÁNKU)
 
 </div>
-
-# Název projektu
-
-## Funkce
-
-- Funkce 1
-- Funkce 2
-- Funkce 3
-
-## Instalace
-
-Instrukce, jak nainstalovat klienta.
-
-```bash
-# Příklad instalačního příkazu
