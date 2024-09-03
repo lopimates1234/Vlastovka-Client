@@ -13,7 +13,6 @@
     <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px;"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://meteorclient.com">
     <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor">
