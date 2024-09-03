@@ -11,9 +11,8 @@ Parts of this document were taken from the [Meteor Client](https://github.com/Me
 <!-- Vycentrovaný blok se štítky -->
 <div align="center">
 
-[![Travis CI Status](TVŮJ_TRAVIS_CI_ODKAZ)](TVŮJ_TRAVIS_CI_STRÁNKA)
-[![CircleCI Status](TVŮJ_CIRCLE_CI_ODKAZ)](TVŮJ_CIRCLE_CI_STRÁNKA)
-[![built with Meteor](TVŮJ_METEOR_ODKAZ)](https://meteor.com)
+[![Version](version](https://img.shields.io/badge/v_1.0.0-green)
+[![built with Meteor](meteor)](https://meteor.com)
 ![node-current](https://img.shields.io/node/v/meteor)
 ![Discord](TVŮJ_DISCORD_ODKAZ)
 ![Twitter Follow](TVŮJ_TWITTER_ODKAZ)
