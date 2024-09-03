@@ -15,12 +15,12 @@
 
 > **Warning**: This project is still in development. Use it at your own risk.
 
-## Features
-- **Game Modifications**: Adds various features that enhance gameplay.
-- **Easy to Use**: Simple installation and user-friendly interface.
-- **Based on Meteor Client**: Builds on the open-source Meteor Client project and adds custom features.
+# Features
+> **Game Modifications**: Adds various features that enhance gameplay.
+> **Easy to Use**: Simple installation and user-friendly interface.
+> **Based on Meteor Client**: Builds on the open-source Meteor Client project and adds custom features.
 
-## Installation
+# Installation
 
 1. Download the latest version of the [Vlastovka Client from GitHub Releases](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1).
 2. Open the Minecraft Launcher and go to the `Installations` section.
@@ -28,7 +28,7 @@
 4. Drag and drop the downloaded `.jar` file into the `mods` folder in your `.minecraft` directory.
 5. Launch Minecraft with the newly created installation.
 
-## How to Contribute
+# How to Contribute
 
 If you want to contribute to this project, follow these steps:
 
@@ -38,7 +38,7 @@ If you want to contribute to this project, follow these steps:
 4. Push your changes to your fork (`git push origin feature/your-feature-name`).
 5. Create a pull request to the main repository.
 
-## License
+# License
 
 This project is licensed under the GNU General Public License v3 (GPL-3.0). Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under GPL-3.0.
 
