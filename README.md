@@ -6,10 +6,9 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/v_1.0.0-green)
+![Version](https://img.shields.io/badge/v_1.0.1-green)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
-![Version](https://img.shields.io/badge/v_1.0.0-green)
 
 </div>
 
@@ -50,9 +49,8 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/v_1.0.0-green)
+![Version](https://img.shields.io/badge/v_1.0.1-green)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
-[![Version](https://img.shields.io/badge/v_1.0.0-green)](LINK_TO_YOUR_PAGE)
 
 </div>
