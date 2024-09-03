@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)]()
+[![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1)
 <a href="https://meteorclient.com" target="_blank">
   <img src="https://meteorclient.com/icon.png" alt="Ko-Fi" style="height: 21px;"/>
 </a>
@@ -29,7 +29,7 @@
 
 > ## Installation
 
-> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](dd).
+> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1).
 > 2. Open the Minecraft Launcher and go to the `Installations` section.
 > 3. Click `New Installation` and select a Minecraft version that is compatible with Vlastovka Client.
 > 4. 📂 **Drag and drop** the downloaded `.jar` file into the `mods` folder in your `.minecraft` directory.
@@ -50,7 +50,7 @@
 > This project is licensed under the GNU General Public License v3 (GPL-3.0). Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under GPL-3.0.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
+  <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="logo" width="300">
 </p>
 
 <div align="center">
