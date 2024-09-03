@@ -1,4 +1,4 @@
-# Vlastovka_Client
+# Vlastovka Client
 this is an beta version of "Vlastovka Client" this client is based on Meteor Client (meteor client if you want us to shutdown the client just tell us)
 
 Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under the GNU General Public License v3 (GPL-3.0)
