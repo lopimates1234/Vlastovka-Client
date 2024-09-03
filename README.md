@@ -8,7 +8,7 @@
 
 ![Version](https://img.shields.io/badge/v_1.0.0-green)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
-![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
+![Client]()
 ![Version](https://img.shields.io/badge/v_1.0.0-green)
 
 </div>
@@ -52,7 +52,7 @@
 
 ![Version](https://img.shields.io/badge/v_1.0.0-green)
 [![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
-![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
+![Client]()
 [![Version](https://img.shields.io/badge/v_1.0.0-green)](LINK_TO_YOUR_PAGE)
 
 </div>
