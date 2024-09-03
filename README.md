@@ -11,7 +11,7 @@ Parts of this document were taken from the [Meteor Client](https://github.com/Me
 <div align="center">
 
 ![Version](https://img.shields.io/badge/v_1.0.0-green)
-![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)(www.meteor.com)]
+![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](www.meteor.com)]
 ![node-current](https://img.shields.io/node/v/meteor)
 [![Version](https://img.shields.io/badge/v_1.0.0-green)](ODKAZ_NA_VAŠI_STRÁNKU)
 
