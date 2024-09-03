@@ -57,7 +57,7 @@
 
 > ## Installation
 
-> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1).
+> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](https://github.com/lopimates1234/Vlastovka-Client/releases).
 > 2. Open the Minecraft Launcher and go to the `Installations` section.
 > 3. Click `New Installation` and select a Minecraft version that is compatible with Vlastovka Client.
 > 4. 📂 **Drag and drop** the downloaded `.jar` file into the `mods` folder in your `.minecraft` directory.
