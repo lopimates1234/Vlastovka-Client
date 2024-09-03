@@ -18,6 +18,7 @@
 <a href="https://ko-fi.com/lopimates1234" target="_blank">
   <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px;"/>
 </a>
+[![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1)
 
 </div>
 
