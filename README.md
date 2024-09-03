@@ -5,7 +5,7 @@ Parts of this document were taken from the [Meteor Client](https://github.com/Me
 
 <!-- Logo projektu -->
 <p align="center">
-  <img src="URL_TVÉHO_LOGA" alt="Logo projektu" width="300">
+  <img src="URL_TVÉHO_LOGA" alt="![icoon](https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd)" width="300">
 </p>
 
 <div align="center">
