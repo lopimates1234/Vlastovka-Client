@@ -52,14 +52,21 @@
 > This project is licensed under the GNU General Public License v3 (GPL-3.0). Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under GPL-3.0.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="logo" width="300">
+  <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
+  </a>
 </p>
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Aplha_v1.0.1-006400)
-[![built with Meteor](https://img.shields.io/badge/meteor_official_site-blue)](https://meteor.com)
+[![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)](https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1)
+<a href="https://meteorclient.com" target="_blank">
+  <img src="https://meteorclient.com/icon.png" alt="Ko-Fi" style="height: 21px;"/>
+</a>
+[![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
 ![Client](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)
-[![ko-fi](https://img.shields.io/badge/Ko-Fi-color=red)](https://ko-fi.com/lopimates1234)
+<a href="https://ko-fi.com/lopimates1234" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi1.png" alt="Ko-Fi" style="height: 20px;"/>
+</a>
 
 </div>
