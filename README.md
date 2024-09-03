@@ -12,7 +12,6 @@
 <a href="https://ko-fi.com/lopimates1234" target="_blank">
   <img src="https://cdn.ko-fi.com/cdn/kofi1.png" alt="Ko-Fi" style="height: 30px;"/>
 </a>
-[![ko-fi](https://img.shields.io/badge/Ko-Fi-color=red)](https://ko-fi.com/lopimates1234)
 
 </div>
 
