@@ -1,5 +1,6 @@
 > # Vlastovka Client
 
+
 <p align="center">
   <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
     <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
