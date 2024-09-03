@@ -31,6 +31,16 @@
     <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
   </a>
 </div>
+
+<!-- Text, který bude pod obrázky -->
+<p>                                                   </p>
+<p>                                                   </p>
+<p>                                                   </p>
+<p>                                                   </p>
+<p>                                                   </p>
+<p>                                                   </p>
+<p>                                                   </p>
+
   
 </div>
 
