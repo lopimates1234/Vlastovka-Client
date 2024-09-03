@@ -12,13 +12,11 @@
   <a href="https://meteorclient.com" target="_blank">
     <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px;"/>
   </a>
-</p>
-<p align="center">
   <a href="https://meteorclient.com">
-    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor">
+    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor" style="vertical-align: middle; margin-left: 10px;"/>
   </a>
   <a href="https://github.com/lopimates1234/Vlastovka-Client">
-    <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="lient">
+    <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="lient" style="vertical-align: middle; margin-left: 10px;"/>
   </a>
 </p>
 
