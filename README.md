@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)
+[![Version](https://img.shields.io/badge/Alpha_v1.0.1-006400)]()
 <a href="https://meteorclient.com" target="_blank">
   <img src="https://meteorclient.com/icon.png" alt="Ko-Fi" style="height: 21px;"/>
 </a>
@@ -29,7 +29,7 @@
 
 > ## Installation
 
-> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](LINK_TO_RELEASE).
+> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](dd).
 > 2. Open the Minecraft Launcher and go to the `Installations` section.
 > 3. Click `New Installation` and select a Minecraft version that is compatible with Vlastovka Client.
 > 4. 📂 **Drag and drop** the downloaded `.jar` file into the `mods` folder in your `.minecraft` directory.
