@@ -15,9 +15,12 @@
 </p>
 
 <p align="center">
-  
-  [![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
-  [![lient](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)](https://github.com/lopimates1234/Vlastovka-Client)
+  <a href="https://meteorclient.com">
+    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor">
+  </a>
+  <a href="https://github.com/lopimates1234/Vlastovka-Client">
+    <img src="https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green" alt="lient">
+  </a>
 </p>
 
 <a href="https://ko-fi.com/lopimates1234" target="_blank">
