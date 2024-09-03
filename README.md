@@ -16,6 +16,8 @@
 
 **Vlastovka Client** is a beta version of a Minecraft client based on the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client). This client is developed for players who want to extend their gameplay with various useful features. If you are the developers of Meteor Client and would like us to shut down this client, please contact us.
 
+
+
 > ⚠️ **Warning**: This project is still in development. Use it at your own risk.
 
 > ## Features
