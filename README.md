@@ -42,7 +42,7 @@
 
 > ## License
 
-This project is licensed under the GNU General Public License v3 (GPL-3.0). Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under GPL-3.0.
+> This project is licensed under the GNU General Public License v3 (GPL-3.0). Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under GPL-3.0.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
