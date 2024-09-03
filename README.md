@@ -8,12 +8,17 @@
 
 <div align="center">
 
-<a href="https://meteorclient.com" target="_blank">
-  <img src="https://meteorclient.com/icon.png" alt="Ko-Fi" style="height: 21px;"/>
+<p align="center">
+  <a href="https://meteorclient.com" target="_blank">
+    <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px;"/>
   </a>
+</p>
+
+<p align="center">
   
-[![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
-[![lient](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)](https://github.com/lopimates1234/Vlastovka-Client)
+  [![built with Meteor](https://img.shields.io/badge/Meteor_Official_Site-blue)](https://meteorclient.com)
+  [![lient](https://img.shields.io/github/contributors/lopimates1234/Vlastovka-Client?color=green)](https://github.com/lopimates1234/Vlastovka-Client)
+</p>
 
 <a href="https://ko-fi.com/lopimates1234" target="_blank">
   <img src="https://storage.ko-fi.com/cdn/cup-border.png" alt="Ko-Fi" style="height: 20px;"/>
