@@ -28,7 +28,7 @@
   <!-- Mezera mezi prvky -->
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
   <a href="https://github.com/lopimates1234/Vlastovka-Client/releases/tag/v1.0.1" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Alpha_v1.0.1-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Alpha_v2.0-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
   </a>
 </div>
 
