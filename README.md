@@ -11,7 +11,6 @@
     <img src="https://cloud.githubusercontent.com/assets/10100202/23872350/47e8462e-082e-11e7-8ac2-07a66e4beaaa.png" alt="Wurst Client" width="100">
   </a>
   <!-- Mezera mezi prvky -->
-  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
   <a href="https://www.wurstclient.net/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Wurst_Official_Site-orange" alt="built with Wurst" style="height: 20px; vertical-align: middle;" />
   </a>
