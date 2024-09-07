@@ -1,4 +1,4 @@
-> # Vlastovka Client
+# Vlastovka Client
 
 <p align="center">
   <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
@@ -7,13 +7,12 @@
 </p>
 
 <div align="center">
-  <a href="https://meteorclient.com" target="_blank" style="display: inline-block;">
-    <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px; vertical-align: middle;" />
+   <a href="https://www.wurstclient.net/">
+    <img src="https://github.com/user-attachments/assets/e3863b8f-301e-45b3-9209-9cd57fef9b0c" alt="Wurst Client" width="70">
   </a>
   <!-- Mezera mezi prvky -->
-  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
-  <a href="https://meteorclient.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor" style="height: 20px; vertical-align: middle;" />
+  <a href="https://www.wurstclient.net/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Wurst_Official_Site-orange" alt="built with Wurst" style="height: 20px; vertical-align: middle;" />
   </a>
   <!-- Mezera mezi prvky -->
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
@@ -32,50 +31,40 @@
   </a>
 </div>
 
-<!-- Text, který bude pod obrázky -->
-<p>                                                   </p>
-<p>                                                   </p>
-<p>                                                   </p>
-<p>                                                   </p>
-<p>                                                   </p>
-<p>                                                   </p>
 <p>                                                   </p>
 
-  
-</div>
+ **Vlastovka Client** is a beta version of a Minecraft client based on the [Wurst Client](https://github.com/Wurst-Imperium/Wurst7). This client is developed for players who want to extend their gameplay with various useful features. If you are the developers of Wurst Client and would like us to shut down this client, please contact us.
 
-> **Vlastovka Client** is a beta version of a Minecraft client based on the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client). This client is developed for players who want to extend their gameplay with various useful features. If you are the developers of Meteor Client and would like us to shut down this client, please contact us.
+ **Big Thank You for iamcute/blackmirror for making this mod with us**
 
-> **Big Thank You for iamcute/blackmirror for making this mod with us**
+ ⚠️ **Warning**: This project is still in development. Use it at your own risk.
 
-> ⚠️ **Warning**: This project is still in development. Use it at your own risk.
+## Features
+- 🛠️ **Game Modifications**: Adds various features that enhance gameplay.
+- 💻 **Easy to Use**: Simple installation and user-friendly interface.
+- 🚀 **Based on Wurst Client**: Builds on the open-source Wurst Client project and adds custom features.
 
-> ## Features
-> - 🛠️ **Game Modifications**: Adds various features that enhance gameplay.
-> - 💻 **Easy to Use**: Simple installation and user-friendly interface.
-> - 🚀 **Based on Meteor Client**: Builds on the open-source Meteor Client project and adds custom features.
+## Installation
 
-> ## Installation
+1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](https://github.com/lopimates1234/Vlastovka-Client/releases).
+2. Open the Minecraft Launcher and go to the `Installations` section.
+3. Click `New Installation` and select a Minecraft version that is compatible with Vlastovka Client.
+4. 📂 **Drag and drop** the downloaded `.jar` file into the `mods` folder in your `.minecraft` directory.
+5. 🎮 **Launch** Minecraft with the newly created installation.
 
-> 1. 📥 **Download** the latest version of the [Vlastovka Client from GitHub Releases](https://github.com/lopimates1234/Vlastovka-Client/releases).
-> 2. Open the Minecraft Launcher and go to the `Installations` section.
-> 3. Click `New Installation` and select a Minecraft version that is compatible with Vlastovka Client.
-> 4. 📂 **Drag and drop** the downloaded `.jar` file into the `mods` folder in your `.minecraft` directory.
-> 5. 🎮 **Launch** Minecraft with the newly created installation.
+## How to Contribute
 
-> ## How to Contribute
+If you want to contribute to this project, follow these steps:
 
-> If you want to contribute to this project, follow these steps:
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a new branch** (`git checkout -b feature/your-feature-name`).
+3. 📝 **Make your changes** and commit them (`git commit -m 'Add new feature'`).
+4. 🔄 **Push** your changes to your fork (`git push origin feature/your-feature-name`).
+5. 🔧 **Create a pull request** to the main repository.
 
-> 1. 🍴 **Fork** this repository.
-> 2. 🌿 **Create a new branch** (`git checkout -b feature/your-feature-name`).
-> 3. 📝 **Make your changes** and commit them (`git commit -m 'Add new feature'`).
-> 4. 🔄 **Push** your changes to your fork (`git push origin feature/your-feature-name`).
-> 5. 🔧 **Create a pull request** to the main repository.
+## License
 
-> ## License
-
-> This project is licensed under the GNU General Public License v3 (GPL-3.0). Parts of this document were taken from the [Meteor Client](https://github.com/MeteorDevelopment/meteor-client) project, which is licensed under GPL-3.0.
+This project is licensed under the **GNU Affero General Public License v3 (AGPL-3.0)**. This means that any changes or modifications made to this project must also be licensed under AGPL-3.0, and if you use this project to provide a service over a network, you must make the source code available to users of that service. Parts of this document were taken from the [Wurst Client](https://github.com/Wurst-Imperium/Wurst7) project, which is also licensed under AGPL-3.0.
 
 <p align="center">
   <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
@@ -84,13 +73,13 @@
 </p>
 
 <div align="center">
-  <a href="https://meteorclient.com" target="_blank" style="display: inline-block;">
-    <img src="https://meteorclient.com/icon.png" alt="Meteor Client" style="height: 21px; vertical-align: middle;" />
+  <a href="https://www.wurstclient.net/" target="_blank" style="display: inline-block;">
+    <img src="https://www.wurstclient.net/images/logo.png" alt="Wurst Client" style="height: 21px; vertical-align: middle;" />
   </a>
   <!-- Mezera mezi prvky -->
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
-  <a href="https://meteorclient.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Meteor_Official_Site-blue" alt="built with Meteor" style="height: 20px; vertical-align: middle;" />
+  <a href="https://www.wurstclient.net/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Wurst_Official_Site-orange" alt="built with Wurst" style="height: 20px; vertical-align: middle;" />
   </a>
   <!-- Mezera mezi prvky -->
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
@@ -107,5 +96,4 @@
   <a href="https://github.com/lopimates1234/Vlastovka-Client/releases" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Alpha_v2.0-006400" alt="Version" style="height: 20px; vertical-align: middle;" />
   </a>
-
 </div>
