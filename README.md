@@ -7,10 +7,11 @@
 </p>
 
 <div align="center">
-   <a href="https://www.wurstclient.net/">
-    <img src="https://github.com/user-attachments/assets/e3863b8f-301e-45b3-9209-9cd57fef9b0c" alt="Wurst Client" width="70">
+  <a href="https://www.wurstclient.net/" target="_blank" style="display: inline-block;">
+    <img src="https://cloud.githubusercontent.com/assets/10100202/23872350/47e8462e-082e-11e7-8ac2-07a66e4beaaa.png" alt="Wurst Client" width="100">
   </a>
   <!-- Mezera mezi prvky -->
+  <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
   <a href="https://www.wurstclient.net/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Wurst_Official_Site-orange" alt="built with Wurst" style="height: 20px; vertical-align: middle;" />
   </a>
@@ -33,11 +34,11 @@
 
 <p>                                                   </p>
 
- **Vlastovka Client** is a beta version of a Minecraft client based on the [Wurst Client](https://github.com/Wurst-Imperium/Wurst7). This client is developed for players who want to extend their gameplay with various useful features. If you are the developers of Wurst Client and would like us to shut down this client, please contact us.
+> **Vlastovka Client** is a beta version of a Minecraft client based on the [Wurst Client](https://github.com/Wurst-Imperium/Wurst7). This client is developed for players who want to extend their gameplay with various useful features. If you are the developers of Wurst Client and would like us to shut down this client, please contact us.
 
- **Big Thank You for iamcute/blackmirror for making this mod with us**
+> **Big Thank You for iamcute/blackmirror for making this mod with us**
 
- ⚠️ **Warning**: This project is still in development. Use it at your own risk.
+> ⚠️ **Warning**: This project is still in development. Use it at your own risk.
 
 ## Features
 - 🛠️ **Game Modifications**: Adds various features that enhance gameplay.
@@ -64,7 +65,7 @@ If you want to contribute to this project, follow these steps:
 
 ## License
 
-This project is licensed under the **GNU Affero General Public License v3 (AGPL-3.0)**. This means that any changes or modifications made to this project must also be licensed under AGPL-3.0, and if you use this project to provide a service over a network, you must make the source code available to users of that service. Parts of this document were taken from the [Wurst Client](https://github.com/Wurst-Imperium/Wurst7) project, which is also licensed under AGPL-3.0.
+This project is licensed under the **GNU General Public License v3 (GPL-3.0)**. This means that any changes or modifications made to this project must also be licensed under GPL-3.0, and any distributed version must include the source code. Parts of this document were taken from the [Wurst Client](https://github.com/Wurst-Imperium/Wurst7) project, which is also licensed under GPL-3.0.
 
 <p align="center">
   <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
@@ -74,7 +75,7 @@ This project is licensed under the **GNU Affero General Public License v3 (AGPL-
 
 <div align="center">
   <a href="https://www.wurstclient.net/" target="_blank" style="display: inline-block;">
-    <img src="https://www.wurstclient.net/images/logo.png" alt="Wurst Client" style="height: 21px; vertical-align: middle;" />
+    <img src="https://www.wurstclient.net/images/logo.png" alt="Wurst Client" width="100">
   </a>
   <!-- Mezera mezi prvky -->
   <img src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=" style="width: 5px; display: inline-block;" alt="" />
