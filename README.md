@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.wurstclient.net/" target="_blank" style="display: inline-block;">
-    <img src="https://cloud.githubusercontent.com/assets/10100202/23872350/47e8462e-082e-11e7-8ac2-07a66e4beaaa.png" alt="Wurst Client" width="100">
+    <img src="https://cloud.githubusercontent.com/assets/10100202/23872350/47e8462e-082e-11e7-8ac2-07a66e4beaaa.png" alt="Wurst Client" width="70">
   </a>
   <!-- Mezera mezi prvky -->
   <a href="https://www.wurstclient.net/" style="display: inline-block;">
