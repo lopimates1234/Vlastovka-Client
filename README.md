@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lopimates1234/Vlastovka-Client" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ee3de53f-d6e7-43b4-92d8-a5dd823076fd" alt="Project Logo" width="300">
+    <img src="https://github.com/user-attachments/assets/821dd332-00bf-4626-99c5-2efc154f46f3" alt="Project Logo" width="300">
   </a>
 </p>
 
@@ -10,7 +10,6 @@
   <a href="https://www.wurstclient.net/" target="_blank" style="display: inline-block;">
     <img src="https://cloud.githubusercontent.com/assets/10100202/23872350/47e8462e-082e-11e7-8ac2-07a66e4beaaa.png" alt="Wurst Client" width="70">
   </a>
-  <!-- Mezera mezi prvky -->
   <a href="https://www.wurstclient.net/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Wurst_Official_Site-orange" alt="built with Wurst" style="height: 20px; vertical-align: middle;" />
   </a>
